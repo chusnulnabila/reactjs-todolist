@@ -11,7 +11,7 @@ I hope this repository showcases my enthusiasm for learning and my dedication to
 # 🌐 Live Demo
 The application is deployed and accessible at:
 
-[**Click here to visit the live website**](nabs-reactjs-todolist.netlify.app)
+nabs-reactjs-todolist.netlify.app
 
 
 # React + Vite
